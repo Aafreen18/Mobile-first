@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Urbanista", sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1{
+    font-size: 3.8rem;
+    font-family:'Lexen Deca',sans-serif;
+}
+
+.hero-section{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 80vh; 
+    position: relative;
+}
+
+.hero-video{
+    max-width: 100%;
+    height: auto;
+    width: 50%;
+    border-radius: 2rem; 
+}
+
+.custom-shape-divider-bottom-1714921577 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+    
+}
+
+.custom-shape-divider-bottom-1714921577 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 100px;
+}
+
+.custom-shape-divider-bottom-1714921577 .shape-fill {
+    fill: #FFFFFF;
+}
+
+.heading{
+    font-size: 2.8rem;
+    font-weight: 600;
+}
+
+.icon-span{
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.img-card{
+    height: 250px;
+    width: 250px;
+}
+
+.more-info-section{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    background-image: linear-gradient(rgb(22,22,22,0.8),rgb(22,22,22,0.8)),url(assets/pexels-maxravier-3331062.jpg);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 6rem 0;
+    overflow: hidden;
+    margin-left: auto;
+}
+
+.carousel-item .card{
+    background-color: #011119;
+    color: white;
+    border-width: 10px;
+    
+}
+
+.carousel-inner .card{
+    transition: all .2s linear;
+}
+
+.carousel-item .card:hover{
+    background-color: #FFFFFF;
+    color: #000;
+    
+}
+.fa-star{
+    color: #C55FFC;
+}
+
+.contact-section{
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
+
+.custom-shape-divider-top-1715231915 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1715231915 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 150px;
+    
+}
+
+.custom-shape-divider-top-1715231915 .shape-fill {
+    fill: #FFFFFF;
+}
+
+.form-section{
+    width: 50%;
+    align-content: center;
+}
+
+.contact-div{
+    width: 5rem;
+    height: 5rem;
+}

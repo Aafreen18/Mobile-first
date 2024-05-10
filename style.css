@@ -105,7 +105,6 @@ h1{
     position: relative;
     padding-top: 100px;
     padding-bottom: 100px;
-
 }
 
 .custom-shape-divider-top-1715231915 {
@@ -139,14 +138,7 @@ h1{
     height: 5rem;
 }
 
-.footer-section{
-    padding: 0 0 4rem 0;
-    flex-shrink: 0;
-    margin-bottom: auto;
-}
 
-@media (min-height: 1000px) {
-    footer {
-      flex-grow: 5; /* Make footer grow to take up remaining space */
-    }
-  }
+   
+
+

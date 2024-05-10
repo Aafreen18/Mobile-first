@@ -1,2 +1,2 @@
 # Mobile-first
-made responsive website using bootstrap framework
+I made first responsive website using bootstrap framework.
